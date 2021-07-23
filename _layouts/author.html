@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-<h1>Profile page for <a href="{{ page.link }}">{{ page.name }}</a></h1>
+<h1><b><a href="{{ page.link }}">{{ page.name }}</a></b></h1>
 <p>{{ page.bio }}</p>
 
 <h2>Post by this author</h2>
@@ -11,4 +10,5 @@ layout: default
 -%}
 {%- for post in author_posts -%}
 <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+<br>
 {%- endfor -%}

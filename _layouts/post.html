@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-
 <h1 style="margin-bottom: 0">{{ page.title }}</h1>
 {%- assign author = site.authors | where: "name", page.author | first -%}
 <p style="margin-bottom: 0"><small>- <a href="{{ site.baseurl }}/authors/{{ author.slug }}.html">{{ author.name }}</a> {{ page.date | date_to_rfc822 }}</small></p>
 <hr>
 <br>
-
 {{ page.content }}
+<br>
+<hr>
+<p style="margin-bottom: 0; text-align: right;"><small>Tags:{%- for tag in page.tags -%}&nbsp;<a href="{{ site.baseurl }}/tags/{{ tag }}.html">{{ tag }}</a>{%- endfor -%}</small></p>

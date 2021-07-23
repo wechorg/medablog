@@ -4,6 +4,8 @@ title:  "New Medawatch, who dis?"
 date: 2021-07-22 21:17:00 -0700
 categories: medabots
 author: Variant
+tags:
+ - status update
 ---
 Heyo, Variant here.
 
