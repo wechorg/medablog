@@ -1,0 +1,1498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text_win",
+				"text_window"
+			],
+			[
+				"drawIm",
+				"drawImageAndResizeVertical"
+			],
+			[
+				"portra",
+				"portrait_positions"
+			],
+			[
+				"portrait_",
+				"portrait_images"
+			],
+			[
+				"necess",
+				"necessary_portraits"
+			],
+			[
+				"TILE",
+				"TILE_HEIGHT"
+			],
+			[
+				"curr",
+				"current_x"
+			],
+			[
+				"Tilem",
+				"TilemapTilesetTableEntry"
+			],
+			[
+				"best_",
+				"best_method"
+			],
+			[
+				"best",
+				"best_size"
+			],
+			[
+				"char",
+				"char_table"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "---\nlayout: post\ntitle:  \"New Medawatch, who dis?\"\ndate:   2021-07-21 21:17:00 -0700\ncategories: medabots\n---\nHeyo, Variant here.\n\nI've always kinda wanted to live that blogger life and figured with the power of GitHub Pages and [jekyll][jekyll-gh]\n\n[jekyll-docs]: https://jekyllrb.com/docs/home\n[jekyll-gh]:   https://github.com/jekyll/jekyll\n[jekyll-talk]: https://talk.jekyllrb.com/\n",
+			"file": "2021-07-21-welcome-to-jekyll.markdown",
+			"file_size": 1365,
+			"file_write_time": 132714874959186568,
+			"settings":
+			{
+				"buffer_size": 386,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					16,
+					16,
+					"left_delete",
+					null,
+					"EAAAACoAAAAAAAAAKgAAAAAAAAABAAAAbCkAAAAAAAAAKQAAAAAAAAABAAAAbCgAAAAAAAAAKAAAAAAAAAABAAAAeScAAAAAAAAAJwAAAAAAAAABAAAAayYAAAAAAAAAJgAAAAAAAAABAAAAZSUAAAAAAAAAJQAAAAAAAAABAAAASiQAAAAAAAAAJAAAAAAAAAABAAAAICMAAAAAAAAAIwAAAAAAAAABAAAAbyIAAAAAAAAAIgAAAAAAAAABAAAAdCEAAAAAAAAAIQAAAAAAAAABAAAAICAAAAAAAAAAIAAAAAAAAAABAAAAZR8AAAAAAAAAHwAAAAAAAAABAAAAbR4AAAAAAAAAHgAAAAAAAAABAAAAbx0AAAAAAAAAHQAAAAAAAAABAAAAYxwAAAAAAAAAHAAAAAAAAAABAAAAbBsAAAAAAAAAGwAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"left_delete",
+					null,
+					"AQAAABoAAAAAAAAAGgAAAAAAAAABAAAAVw",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "New"
+					},
+					"AwAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " watch,"
+					},
+					"BwAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": " who"
+					},
+					"BAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " dis?"
+					},
+					"BQAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "medwa"
+					},
+					"BgAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfAAAAAAAAAAUAAAB3YXRjaB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					2,
+					"left_delete",
+					null,
+					"AgAAACIAAAAAAAAAIgAAAAAAAAABAAAAYSEAAAAAAAAAIQAAAAAAAAABAAAAdw",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "awatch"
+					},
+					"BgAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					9,
+					"left_delete",
+					null,
+					"CQAAACYAAAAAAAAAJgAAAAAAAAABAAAAaCUAAAAAAAAAJQAAAAAAAAABAAAAYyQAAAAAAAAAJAAAAAAAAAABAAAAdCMAAAAAAAAAIwAAAAAAAAABAAAAYSIAAAAAAAAAIgAAAAAAAAABAAAAdyEAAAAAAAAAIQAAAAAAAAABAAAAYSAAAAAAAAAAIAAAAAAAAAABAAAAZB8AAAAAAAAAHwAAAAAAAAABAAAAZR4AAAAAAAAAHgAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": " M"
+					},
+					"AgAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB8AAAAAAAAAHwAAAAAAAAABAAAATR4AAAAAAAAAHgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "Medawatch"
+					},
+					"CQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAADEAAAAAAAAAMQAAAAAAAAABAAAAIQ",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAA4GxA"
+				],
+				[
+					43,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEcAAAAAAAAARwAAAAAAAAABAAAAMUYAAAAAAAAARgAAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "22"
+					},
+					"AgAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEcAAAAAAAAARwAAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEoAAAAAAAAASgAAAAAAAAABAAAANkkAAAAAAAAASQAAAAAAAAABAAAAMw",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "17"
+					},
+					"AgAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					2,
+					"left_delete",
+					null,
+					"AgAAAE0AAAAAAAAATQAAAAAAAAABAAAAMUwAAAAAAAAATAAAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "00"
+					},
+					"AgAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					13,
+					"left_delete",
+					null,
+					"DQAAAG0AAAAAAAAAbQAAAAAAAAABAAAAZWwAAAAAAAAAbAAAAAAAAAABAAAAdGsAAAAAAAAAawAAAAAAAAABAAAAYWoAAAAAAAAAagAAAAAAAAABAAAAZGkAAAAAAAAAaQAAAAAAAAABAAAAcGgAAAAAAAAAaAAAAAAAAAABAAAAdWcAAAAAAAAAZwAAAAAAAAABAAAAIGYAAAAAAAAAZgAAAAAAAAABAAAAbGUAAAAAAAAAZQAAAAAAAAABAAAAbGQAAAAAAAAAZAAAAAAAAAABAAAAeWMAAAAAAAAAYwAAAAAAAAABAAAAa2IAAAAAAAAAYgAAAAAAAAABAAAAZWEAAAAAAAAAYQAAAAAAAAABAAAAag",
+					"AQAAAAAAAAABAAAAbgAAAAAAAABuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "medabots"
+					},
+					"CAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"left_delete",
+					null,
+					"AQAAAG4AAAAAAAAAbgAAAAAAAABdBAAAWW914oCZbGwgZmluZCB0aGlzIHBvc3QgaW4geW91ciBgX3Bvc3RzYCBkaXJlY3RvcnkuIEdvIGFoZWFkIGFuZCBlZGl0IGl0IGFuZCByZS1idWlsZCB0aGUgc2l0ZSB0byBzZWUgeW91ciBjaGFuZ2VzLiBZb3UgY2FuIHJlYnVpbGQgdGhlIHNpdGUgaW4gbWFueSBkaWZmZXJlbnQgd2F5cywgYnV0IHRoZSBtb3N0IGNvbW1vbiB3YXkgaXMgdG8gcnVuIGBqZWt5bGwgc2VydmVgLCB3aGljaCBsYXVuY2hlcyBhIHdlYiBzZXJ2ZXIgYW5kIGF1dG8tcmVnZW5lcmF0ZXMgeW91ciBzaXRlIHdoZW4gYSBmaWxlIGlzIHVwZGF0ZWQuCgpKZWt5bGwgcmVxdWlyZXMgYmxvZyBwb3N0IGZpbGVzIHRvIGJlIG5hbWVkIGFjY29yZGluZyB0byB0aGUgZm9sbG93aW5nIGZvcm1hdDoKCmBZRUFSLU1PTlRILURBWS10aXRsZS5NQVJLVVBgCgpXaGVyZSBgWUVBUmAgaXMgYSBmb3VyLWRpZ2l0IG51bWJlciwgYE1PTlRIYCBhbmQgYERBWWAgYXJlIGJvdGggdHdvLWRpZ2l0IG51bWJlcnMsIGFuZCBgTUFSS1VQYCBpcyB0aGUgZmlsZSBleHRlbnNpb24gcmVwcmVzZW50aW5nIHRoZSBmb3JtYXQgdXNlZCBpbiB0aGUgZmlsZS4gQWZ0ZXIgdGhhdCwgaW5jbHVkZSB0aGUgbmVjZXNzYXJ5IGZyb250IG1hdHRlci4gVGFrZSBhIGxvb2sgYXQgdGhlIHNvdXJjZSBmb3IgdGhpcyBwb3N0IHRvIGdldCBhbiBpZGVhIGFib3V0IGhvdyBpdCB3b3Jrcy4KCkpla3lsbCBhbHNvIG9mZmVycyBwb3dlcmZ1bCBzdXBwb3J0IGZvciBjb2RlIHNuaXBwZXRzOgoKeyUgaGlnaGxpZ2h0IHJ1YnkgJX0KZGVmIHByaW50X2hpKG5hbWUpCiAgcHV0cyAiSGksICN7bmFtZX0iCmVuZApwcmludF9oaSgnVG9tJykKIz0+IHByaW50cyAnSGksIFRvbScgdG8gU1RET1VULgp7JSBlbmRoaWdobGlnaHQgJX0KCkNoZWNrIG91dCB0aGUgW0pla3lsbCBkb2NzXVtqZWt5bGwtZG9jc10gZm9yIG1vcmUgaW5mbyBvbiBob3cgdG8gZ2V0IHRoZSBtb3N0IG91dCBvZiBKZWt5bGwuIEZpbGUgYWxsIGJ1Z3MvZmVhdHVyZSByZXF1ZXN0cyBhdCBbSmVreWxs4oCZcyBHaXRIdWIgcmVwb11bamVreWxsLWdoXS4gSWYgeW91IGhhdmUgcXVlc3Rpb25zLCB5b3UgY2FuIGFzayB0aGVtIG9uIFtKZWt5bGwgVGFsa11bamVreWxsLXRhbGtdLg",
+					"AQAAAAAAAAABAAAAxwQAAAAAAABuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": "Heyo,"
+					},
+					"BQAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHEAAAAAAAAAAAAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgAAAAAAAABuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": " Variant"
+					},
+					"CAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHkAAAAAAAAAAAAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": " here."
+					},
+					"BgAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAH4AAAAAAAAAfwAAAAAAAAAAAAAAfwAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewAAAAAAAAB7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAIEAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": "This"
+					},
+					"BAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": " is"
+					},
+					"AwAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAACJAAAAAAAAAIoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					7,
+					"left_delete",
+					null,
+					"BwAAAIkAAAAAAAAAiQAAAAAAAAABAAAAc4gAAAAAAAAAiAAAAAAAAAABAAAAaYcAAAAAAAAAhwAAAAAAAAABAAAAIIYAAAAAAAAAhgAAAAAAAAABAAAAc4UAAAAAAAAAhQAAAAAAAAABAAAAaYQAAAAAAAAAhAAAAAAAAAABAAAAaIMAAAAAAAAAgwAAAAAAAAABAAAAVA",
+					"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": "I'm"
+					},
+					"AwAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIYAAAAAAAAAhwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					3,
+					"left_delete",
+					null,
+					"AwAAAIYAAAAAAAAAhgAAAAAAAAABAAAAIIUAAAAAAAAAhQAAAAAAAAABAAAAbYQAAAAAAAAAhAAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert",
+					{
+						"characters": " figu"
+					},
+					"BQAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAACGAAAAAAAAAIcAAAAAAAAAAAAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					5,
+					"left_delete",
+					null,
+					"BQAAAIgAAAAAAAAAiAAAAAAAAAABAAAAdYcAAAAAAAAAhwAAAAAAAAABAAAAZ4YAAAAAAAAAhgAAAAAAAAABAAAAaYUAAAAAAAAAhQAAAAAAAAABAAAAZoQAAAAAAAAAhAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": "'ve"
+					},
+					"AwAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAACGAAAAAAAAAIcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": " always"
+					},
+					"BwAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAACJAAAAAAAAAIoAAAAAAAAAAAAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAI0AAAAAAAAAjgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": " kinda"
+					},
+					"BgAAAI4AAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJEAAAAAAAAAAAAAAJEAAAAAAAAAkgAAAAAAAAAAAAAAkgAAAAAAAACTAAAAAAAAAAAAAACTAAAAAAAAAJQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"insert",
+					{
+						"characters": " wanted"
+					},
+					"BwAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAACWAAAAAAAAAJcAAAAAAAAAAAAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACZAAAAAAAAAAAAAACZAAAAAAAAAJoAAAAAAAAAAAAAAJoAAAAAAAAAmwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": " to"
+					},
+					"AwAAAJsAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACdAAAAAAAAAAAAAACdAAAAAAAAAJ4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwAAAAAAAACbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"insert",
+					{
+						"characters": " live"
+					},
+					"BQAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAKEAAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAACjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": " that"
+					},
+					"BQAAAKMAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAAClAAAAAAAAAAAAAAClAAAAAAAAAKYAAAAAAAAAAAAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": " blogger"
+					},
+					"CAAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAKsAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACtAAAAAAAAAAAAAACtAAAAAAAAAK4AAAAAAAAAAAAAAK4AAAAAAAAArwAAAAAAAAAAAAAArwAAAAAAAACwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": " life"
+					},
+					"BQAAALAAAAAAAAAAsQAAAAAAAAAAAAAAsQAAAAAAAACyAAAAAAAAAAAAAACyAAAAAAAAALMAAAAAAAAAAAAAALMAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": " and"
+					},
+					"BAAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAC3AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAuQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": " figured"
+					},
+					"CAAAALkAAAAAAAAAugAAAAAAAAAAAAAAugAAAAAAAAC7AAAAAAAAAAAAAAC7AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAvQAAAAAAAAAAAAAAvQAAAAAAAAC+AAAAAAAAAAAAAAC+AAAAAAAAAL8AAAAAAAAAAAAAAL8AAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADBAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQAAAAAAAAC5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"insert",
+					{
+						"characters": " maybe"
+					},
+					"BgAAAMEAAAAAAAAAwgAAAAAAAAAAAAAAwgAAAAAAAADDAAAAAAAAAAAAAADDAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAADGAAAAAAAAAMcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"insert",
+					{
+						"characters": " we"
+					},
+					"AwAAAMcAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADJAAAAAAAAAAAAAADJAAAAAAAAAMoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMoAAAAAAAAAywAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					8,
+					"left_delete",
+					null,
+					"CAAAAMoAAAAAAAAAygAAAAAAAAABAAAAIMkAAAAAAAAAyQAAAAAAAAABAAAAZcgAAAAAAAAAyAAAAAAAAAABAAAAd8cAAAAAAAAAxwAAAAAAAAABAAAAIMYAAAAAAAAAxgAAAAAAAAABAAAAZcUAAAAAAAAAxQAAAAAAAAABAAAAYsQAAAAAAAAAxAAAAAAAAAABAAAAecMAAAAAAAAAwwAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"insert",
+					{
+						"characters": "wi"
+					},
+					"AgAAAMMAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwwAAAAAAAADDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					3,
+					"left_delete",
+					null,
+					"AwAAAMQAAAAAAAAAxAAAAAAAAAABAAAAacMAAAAAAAAAwwAAAAAAAAABAAAAd8IAAAAAAAAAwgAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"insert",
+					{
+						"characters": "with"
+					},
+					"BAAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMUAAAAAAAAAAAAAAMUAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": " the"
+					},
+					"BAAAAMYAAAAAAAAAxwAAAAAAAAAAAAAAxwAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMkAAAAAAAAAAAAAAMkAAAAAAAAAygAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": " power"
+					},
+					"BgAAAMoAAAAAAAAAywAAAAAAAAAAAAAAywAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAAM0AAAAAAAAAAAAAAM0AAAAAAAAAzgAAAAAAAAAAAAAAzgAAAAAAAADPAAAAAAAAAAAAAADPAAAAAAAAANAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": " of"
+					},
+					"AwAAANAAAAAAAAAA0QAAAAAAAAAAAAAA0QAAAAAAAADSAAAAAAAAAAAAAADSAAAAAAAAANMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": " Git"
+					},
+					"BAAAANMAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADVAAAAAAAAAAAAAADVAAAAAAAAANYAAAAAAAAAAAAAANYAAAAAAAAA1wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wAAAAAAAADTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					3,
+					"left_delete",
+					null,
+					"AwAAANYAAAAAAAAA1gAAAAAAAAABAAAAdNUAAAAAAAAA1QAAAAAAAAABAAAAadQAAAAAAAAA1AAAAAAAAAABAAAARw",
+					"AQAAAAAAAAABAAAA1wAAAAAAAADXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "g"
+					},
+					"AQAAANQAAAAAAAAA1QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"left_delete",
+					null,
+					"AQAAANQAAAAAAAAA1AAAAAAAAAABAAAAZw",
+					"AQAAAAAAAAABAAAA1QAAAAAAAADVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "GitHub"
+					},
+					"BgAAANQAAAAAAAAA1QAAAAAAAAAAAAAA1QAAAAAAAADWAAAAAAAAAAAAAADWAAAAAAAAANcAAAAAAAAAAAAAANcAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADZAAAAAAAAAAAAAADZAAAAAAAAANoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"insert",
+					{
+						"characters": " Pages"
+					},
+					"BgAAANoAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAADfAAAAAAAAAOAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					130,
+					1,
+					"insert",
+					{
+						"characters": " and"
+					},
+					"BAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADiAAAAAAAAAAAAAADiAAAAAAAAAOMAAAAAAAAAAAAAAOMAAAAAAAAA5AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					131,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAOUAAAAAAAAA5wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QAAAAAAAADlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"insert",
+					{
+						"characters": "jekyll"
+					},
+					"BgAAAOYAAAAAAAAA5wAAAAAAAAAAAAAA5wAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOkAAAAAAAAAAAAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA6gAAAAAAAADrAAAAAAAAAAAAAADrAAAAAAAAAOwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gAAAAAAAADmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					135,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAO0AAAAAAAAA7wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QAAAAAAAADtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					1,
+					"insert",
+					{
+						"characters": "jekyll"
+					},
+					"BgAAAO4AAAAAAAAA7wAAAAAAAAAAAAAA7wAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPEAAAAAAAAAAAAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA8gAAAAAAAADzAAAAAAAAAAAAAADzAAAAAAAAAPQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gAAAAAAAADuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"insert",
+					{
+						"characters": "-gh"
+					},
+					"AwAAAPQAAAAAAAAA9QAAAAAAAAAAAAAA9QAAAAAAAAD2AAAAAAAAAAAAAAD2AAAAAAAAAPcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"settings ",
+				"Preferences: Settings – Distraction Free"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"user settings",
+				"Jekyll Utility: Migrate user settings"
+			],
+			[
+				"jekyll",
+				"Jekyll: Edit _config.yml"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"preferences",
+				"Preferences: Key Bindings"
+			],
+			[
+				"es",
+				"ESLint"
+			],
+			[
+				"eslnt",
+				"ESLint"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"wordw",
+				"Word Wrap: Toggle"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"select ",
+				"UI: Select Theme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"select theme",
+				"UI: Select Theme"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vijayganesan/Projects/medablog",
+		"/Users/vijayganesan/Projects/medablog/_posts",
+		"/Users/vijayganesan/Projects/medablog/_site"
+	],
+	"file_history":
+	[
+		"/Users/vijayganesan/Projects/medarot1_translation/.circleci/config.yml",
+		"/Users/vijayganesan/Projects/medabots.github.io/index.html",
+		"/Users/vijayganesan/Projects/medabots.github.io/blog/_config.yml",
+		"/Users/vijayganesan/Projects/medarot3_dialog-previewer-js/main.js",
+		"/Users/vijayganesan/Projects/medarot3_dialog-previewer-js/resources/portraits/0/0.png",
+		"/Users/vijayganesan/Projects/medarot3_dialog-previewer-js/modules/utils.js",
+		"/Users/vijayganesan/Projects/medarot3_dialog-previewer-js/modules/font.js",
+		"/Users/vijayganesan/Projects/medarot3_dialog-previewer-js/modules/const.js",
+		"/Users/vijayganesan/Projects/medarot1/game/src/patch/vwf.asm",
+		"/Users/vijayganesan/Projects/medarot1/text/tilesets/MainDialog.png",
+		"/Users/vijayganesan/Projects/medarot1/text/tilemaps/Tilemap_65D9.txt",
+		"/Users/vijayganesan/Projects/medarot1/game/src/common/constants.asm",
+		"/Users/vijayganesan/Projects/medarot1/game/src/version/portraits.asm",
+		"/Users/vijayganesan/Projects/medarot1/game/src/portraits/portraits.asm",
+		"/Users/vijayganesan/Projects/medarot1/text/tilemaps/Portrait.txt",
+		"/Users/vijayganesan/Projects/medarot1/scripts/res/tilemap_files.tbl",
+		"/Users/vijayganesan/Projects/medarot1/game/src/story/names.asm",
+		"/Users/vijayganesan/Projects/medarot1/text/tilemaps/Tilemap_505E.txt",
+		"/Users/vijayganesan/Projects/medarot1/game/src/common/macros.asm",
+		"/Users/vijayganesan/Projects/medarot1/game/src/menu/medal_status_screen.asm",
+		"/Users/vijayganesan/Projects/medarot1/game/src/link/trade_menu.asm",
+		"/Users/vijayganesan/Projects/medarot1/text/tilemaps/Tilemap_60D1.txt",
+		"/Users/vijayganesan/Projects/medarot1/game/src/version/list_data.asm",
+		"/Users/vijayganesan/Projects/medarot1/text/ptrlists/Skills.txt",
+		"/Users/vijayganesan/Projects/medarot1/game/src/menu/medal_screen.asm",
+		"/Users/vijayganesan/Projects/medarot1/.circleci/config.yml",
+		"/Users/vijayganesan/Projects/medarot1/text/ptrlists/Attributes.txt",
+		"/Users/vijayganesan/Projects/medarot1/game/src/kabuto/list_data.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/battle/battle.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/pausemenu/medawatch_core.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/patch/hack.asm",
+		"/Users/vijayganesan/Projects/medarot3/scripts/res/tilesets/MainDialog1.lst",
+		"/Users/vijayganesan/Projects/medarot3/game/src/tutorial/tutorial.asm",
+		"/Users/vijayganesan/Projects/medarot3/scripts/res/meta_attribmap_files.tbl",
+		"/Users/vijayganesan/Projects/medarot3/game/src/patch/tilesets.asm",
+		"/Users/vijayganesan/Projects/medarot3/gfx/attribmaps/0278.txt",
+		"/Users/vijayganesan/Projects/medarot3/gfx/tilemaps/GlossaryScreen.txt",
+		"/Users/vijayganesan/Projects/medarot3/game/src/version/attribmap_table.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/tutorial/core.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/version/ptrlist_data.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/version/tilemap_table.asm",
+		"/Users/vijayganesan/Projects/medarot3/scripts/res/meta_tilemap_files.tbl",
+		"/Users/vijayganesan/Projects/medarot3/scripts/dump_ptrlists.py",
+		"/Users/vijayganesan/Projects/medarot3/gfx/tilemaps/0278.txt",
+		"/Users/vijayganesan/Projects/medarot3/gfx/tilemaps/002C.txt",
+		"/Users/vijayganesan/Projects/medarot3/game/src/gfx/tilemap.asm",
+		"/Users/vijayganesan/Projects/medarot3/scripts/ptrlistbin2asm.py",
+		"/Users/vijayganesan/Projects/medarot3/text/ptrlists/TutorialLessons.txt",
+		"/Users/vijayganesan/Projects/medarot3/game/src/pausemenu/items.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/core/rst.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/patch/vwf.asm",
+		"/Users/vijayganesan/Projects/medarot3/scripts/res/tilesets/Kanji.lst",
+		"/Users/vijayganesan/Projects/medarot3/build/ptrlists/ptrlist_data_constants_kabuto.asm",
+		"/Users/vijayganesan/Projects/medarot3/build/ptrlists/TutorialLessons_kabuto.bin",
+		"/Users/vijayganesan/Projects/medarot3/text/ptrlists/Items.txt",
+		"/Users/vijayganesan/Projects/medarot3/scripts/ptrlist2bin.py",
+		"/Users/vijayganesan/Projects/medarot3/text/ptrlists/PartsHead.txt",
+		"/Users/vijayganesan/Projects/medarot3/text/ptrlists/PartsLArm.txt",
+		"/Users/vijayganesan/Projects/medarot3/text/ptrlists/PartsLegs.txt",
+		"/Users/vijayganesan/Projects/medarot3/text/ptrlists/PartsRArm.txt",
+		"/Users/vijayganesan/Projects/medarot3/text/ptrlists/Unknown00.txt",
+		"/Users/vijayganesan/Projects/medarot3/Makefile",
+		"/Users/vijayganesan/Projects/medarot3/game/src/core/wrappers.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/text/buffer_text.asm",
+		"/Users/vijayganesan/Projects/medarot3/doc/bank_map.txt",
+		"/Users/vijayganesan/Projects/medarot3/scripts/common/png.py",
+		"/Users/vijayganesan/Projects/medarot3/game/src/pausemenu/save_core.asm",
+		"/Users/vijayganesan/Projects/medarot3/scripts/txt2map.py",
+		"/Users/vijayganesan/Projects/medarot3/gfx/tilemaps/000A.txt",
+		"/Users/vijayganesan/Projects/medarot3/build/tilemaps/000A.map",
+		"/Users/vijayganesan/Projects/medarot3/scripts/common/tilemaps.py",
+		"/Users/vijayganesan/Projects/medarot3/gfx/tilemaps/0000.txt",
+		"/Users/vijayganesan/Projects/medarot3/gfx/prebuilt/tilemaps_/000A.map",
+		"/Users/vijayganesan/Projects/medarot3/build/tilemaps/0000.map",
+		"/Users/vijayganesan/Projects/medarot3/gfx/prebuilt/tilemaps/0000.map",
+		"/Users/vijayganesan/Projects/medarot3/gfx/attribmaps/0000.txt",
+		"/Users/vijayganesan/Projects/medarot3/scripts/common/utils.py",
+		"/Users/vijayganesan/Projects/medarot3/scripts/dump_maps.py",
+		"/Users/vijayganesan/Projects/medarot3/build/tilemaps/0070.map",
+		"/Users/vijayganesan/Projects/medarot3/build/attribmaps/0001.map",
+		"/Users/vijayganesan/Projects/medarot3/build/tilemaps/0132.map",
+		"/Users/vijayganesan/Projects/medarot3/gfx/tilemaps/0132.txt",
+		"/Users/vijayganesan/Projects/medarot3/gfx/attribmaps/0001.txt",
+		"/Users/vijayganesan/Projects/medarot3/build/attribmaps/0000.map",
+		"/Users/vijayganesan/Projects/medarot3/gfx/attribmaps/0132.txt",
+		"/Users/vijayganesan/Projects/medarot3/gfx/tilemaps/0070.txt",
+		"/Users/vijayganesan/Projects/medarot3/game/src/version/kabuto/text_tables.asm",
+		"/Users/vijayganesan/Projects/medarot3/game/src/version/text_tables.asm",
+		"/Users/vijayganesan/Library/Application Support/discord/settings.json",
+		"/Users/vijayganesan/Projects/medarot1/game/src/patch/hack.asm",
+		"/Users/vijayganesan/Projects/medarot1/game/src/patch/include/tilesets.asm"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "2021-07-21-welcome-to-jekyll.markdown",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "medablog.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"util",
+				"modules/utils.js"
+			],
+			[
+				"const",
+				"modules/const.js"
+			],
+			[
+				"portraits.asm",
+				"game/src/version/portraits.asm"
+			],
+			[
+				"vwf",
+				"game/src/patch/vwf.asm"
+			],
+			[
+				"tilesets.asm",
+				"game/src/gfx/tilesets.asm"
+			],
+			[
+				"dialog2bin",
+				"scripts/dialog2bin.py"
+			],
+			[
+				"makefile",
+				"Makefile"
+			],
+			[
+				"version.txt",
+				"text/patch/version.txt"
+			],
+			[
+				"version.tx",
+				"build/patch/version.txt"
+			],
+			[
+				"hack.",
+				"game/src/patch/hack.asm"
+			],
+			[
+				"namescreen",
+				"text/tilemaps/NameScreen.txt"
+			],
+			[
+				"Tilemap_505E",
+				"text/tilemaps/Tilemap_505E.txt"
+			],
+			[
+				"tilemap_files",
+				"scripts/res/tilemap_files.tbl"
+			],
+			[
+				"nam",
+				"game/src/story/names.asm"
+			],
+			[
+				"name_",
+				"game/src/nameentry/medal_naming_core.asm"
+			],
+			[
+				"macros",
+				"game/src/common/macros.asm"
+			],
+			[
+				"medal_status",
+				"game/src/menu/medal_status_screen.asm"
+			],
+			[
+				"circleci",
+				".circleci/config.yml"
+			],
+			[
+				"Tilemap_60D1",
+				"text/tilemaps/Tilemap_60D1.txt"
+			],
+			[
+				"attributes",
+				"text/ptrlists/Attributes.txt"
+			],
+			[
+				"medal_ asm",
+				"game/src/menu/medal_screen.asm"
+			],
+			[
+				"skills.",
+				"text/ptrlists/Skills.txt"
+			],
+			[
+				"list_data",
+				"game/src/version/list_data.asm"
+			],
+			[
+				"lists",
+				"game/src/kabuto/list_data.asm"
+			],
+			[
+				"maindial",
+				"scripts/res/tilesets/MainDialog1.lst"
+			],
+			[
+				"attribmap_t",
+				"game/src/version/attribmap_table.asm"
+			],
+			[
+				"meta_att",
+				"scripts/res/meta_attribmap_files.tbl"
+			],
+			[
+				"0278",
+				"gfx/attribmaps/0278.txt"
+			],
+			[
+				"core tuto",
+				"game/src/tutorial/core.asm"
+			],
+			[
+				"tileset path",
+				"game/src/patch/tilesets.asm"
+			],
+			[
+				"gloss",
+				"gfx/tilemaps/GlossaryScreen.txt"
+			],
+			[
+				"tutori",
+				"game/src/tutorial/tutorial.asm"
+			],
+			[
+				"dump_pt",
+				"scripts/dump_ptrlists.py"
+			],
+			[
+				"meta_tilemap",
+				"scripts/res/meta_tilemap_files.tbl"
+			],
+			[
+				"tilemap_table",
+				"game/src/version/tilemap_table.asm"
+			],
+			[
+				"00c2",
+				"gfx/tilemaps/002C.txt"
+			],
+			[
+				"core.asm tutor",
+				"game/src/tutorial/core.asm"
+			],
+			[
+				"tutorial",
+				"game/src/tutorial/tutorial.asm"
+			],
+			[
+				"tilemap.",
+				"game/src/gfx/tilemap.asm"
+			],
+			[
+				"kanji",
+				"scripts/res/tilesets/Kanji.lst"
+			],
+			[
+				"rst.asm",
+				"game/src/core/rst.asm"
+			],
+			[
+				"core.",
+				"game/src/tutorial/core.asm"
+			],
+			[
+				"items.asm",
+				"game/src/pausemenu/items.asm"
+			],
+			[
+				"tutorial.asm",
+				"game/src/tutorial/tutorial.asm"
+			],
+			[
+				"ptrlist_dat",
+				"game/src/version/ptrlist_data.asm"
+			],
+			[
+				"ptrlist_data",
+				"build/ptrlists/ptrlist_data_constants_kabuto.asm"
+			],
+			[
+				"tutoriall",
+				"text/ptrlists/TutorialLessons.txt"
+			],
+			[
+				"ptrlist_data_",
+				"build/ptrlists/ptrlist_data_constants_kabuto.asm"
+			],
+			[
+				"ptrlist_da",
+				"game/src/version/ptrlist_data.asm"
+			],
+			[
+				"unknown",
+				"text/ptrlists/Unknown00.txt"
+			],
+			[
+				"items.t",
+				"text/ptrlists/Items.txt"
+			],
+			[
+				"ptrli",
+				"scripts/ptrlistbin2asm.py"
+			],
+			[
+				"items.tx",
+				"text/ptrlists/Items.txt"
+			],
+			[
+				"makefil",
+				"Makefile"
+			],
+			[
+				"ptrlist2",
+				"scripts/ptrlistbin2asm.py"
+			],
+			[
+				"png.p",
+				"scripts/common/png.py"
+			],
+			[
+				"dump_ptr",
+				"scripts/dump_ptrlists.py"
+			],
+			[
+				"rst.as",
+				"game/src/core/rst.asm"
+			],
+			[
+				"bank_ma",
+				"doc/bank_map.txt"
+			],
+			[
+				"vwf.",
+				"game/src/patch/vwf.asm"
+			],
+			[
+				"tutoriallessons",
+				"text/ptrlists/TutorialLessons.txt"
+			],
+			[
+				"items.a",
+				"game/src/pausemenu/items.asm"
+			],
+			[
+				"sav",
+				"game/src/pausemenu/save_core.asm"
+			],
+			[
+				"bank_",
+				"doc/bank_map.txt"
+			],
+			[
+				"buffer",
+				"game/src/text/buffer_text.asm"
+			],
+			[
+				"ptrlist",
+				"game/src/version/ptrlist_data.asm"
+			],
+			[
+				"list",
+				"scripts/ptrlist2bin.py"
+			],
+			[
+				"000a.txt",
+				"gfx/tilemaps/000A.txt"
+			],
+			[
+				"000a.m",
+				"build/tilemaps/000A.map"
+			],
+			[
+				"000a",
+				"gfx/prebuilt/tilemaps_/000A.map"
+			],
+			[
+				"000a.map",
+				"build/tilemaps/000A.map"
+			],
+			[
+				"0000.map",
+				"build/tilemaps/0000.map"
+			],
+			[
+				"txt2",
+				"scripts/txt2map.py"
+			],
+			[
+				"0000.txt",
+				"gfx/tilemaps/0000.txt"
+			],
+			[
+				"tilemaps.",
+				"scripts/common/tilemaps.py"
+			],
+			[
+				"utils.",
+				"scripts/common/utils.py"
+			],
+			[
+				"0132.map",
+				"build/tilemaps/0132.map"
+			],
+			[
+				"0132",
+				"gfx/tilemaps/0132.txt"
+			],
+			[
+				"0070.t",
+				"gfx/tilemaps/0070.txt"
+			],
+			[
+				"0070",
+				"build/tilemaps/0070.map"
+			],
+			[
+				"dump_map",
+				"scripts/dump_maps.py"
+			],
+			[
+				"tilemaps.py",
+				"scripts/common/tilemaps.py"
+			],
+			[
+				"tilemap.asm",
+				"game/src/gfx/tilemap.asm"
+			],
+			[
+				"0001.map",
+				"build/attribmaps/0001.map"
+			],
+			[
+				"attrmap/0001.tx",
+				"gfx/attribmaps/0001.txt"
+			],
+			[
+				"txt2m",
+				"scripts/txt2map.py"
+			],
+			[
+				"tilemaps",
+				"scripts/common/tilemaps.py"
+			],
+			[
+				"0000",
+				"gfx/tilemaps/0000.txt"
+			],
+			[
+				"text_tables",
+				"game/src/version/text_tables.asm"
+			],
+			[
+				"version/text_tables.asm",
+				"game/src/version/kabuto/text_tables.asm"
+			],
+			[
+				"text_tables.asm",
+				"game/src/version/text_tables.asm"
+			],
+			[
+				"hack.asm",
+				"game/src/patch/hack.asm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

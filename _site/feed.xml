@@ -1,17 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/medablog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/medablog/" rel="alternate" type="text/html" /><updated>2021-07-21T22:37:35-07:00</updated><id>http://localhost:4000/medablog/feed.xml</id><title type="html">Medablog</title><subtitle>A blog dedicated to Medabots news and fan projects!</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/medablog/jekyll/update/2021/07/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-07-21T21:36:21-07:00</published><updated>2021-07-21T21:36:21-07:00</updated><id>http://localhost:4000/medablog/jekyll/update/2021/07/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/medablog/jekyll/update/2021/07/21/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/medablog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/medablog/" rel="alternate" type="text/html" /><updated>2021-07-22T23:09:05-07:00</updated><id>http://localhost:4000/medablog/feed.xml</id><title type="html">Medablog</title><subtitle>A blog dedicated to Medabots news and fan projects!</subtitle><entry><title type="html">New Medawatch, who dis?</title><link href="http://localhost:4000/medablog/medabots/2021/07/22/New-Medawatch-Who-Dis.html" rel="alternate" type="text/html" title="New Medawatch, who dis?" /><published>2021-07-22T21:17:00-07:00</published><updated>2021-07-22T21:17:00-07:00</updated><id>http://localhost:4000/medablog/medabots/2021/07/22/New-Medawatch-Who-Dis</id><content type="html" xml:base="http://localhost:4000/medablog/medabots/2021/07/22/New-Medawatch-Who-Dis.html">&lt;p&gt;Heyo, Variant here.&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;I’ve always kinda wanted to live that hip blogger life and figured with the power of GitHub Pages and &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;jekyll&lt;/a&gt;, it was finally time. It’s a little empty right now, but make yourselves at home :).&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My goal is to keep people updated on the status of the Medabots Game Boy and Game Boy Color translation projects &lt;a href=&quot;https://github.com/Medabots&quot;&gt;we’re working on&lt;/a&gt;, as well as what we might be stuck on…&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;We might also have some posts regarding Medabots news in general if I can convince some people to contribute here, so keep your fingers crossed for that.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;As for a status update, here’s what we’ve got…&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h1 id=&quot;medabots-1-game-boy&quot;&gt;Medabots 1 (Game Boy)&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;The patch is out there and playable (get the latest patch &lt;a href=&quot;https://github.com/Medabots/medarot1/releases/latest&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;The portraits version is still in-progress, I’d love to find someone who’s played the WonderSwan version and could help map the portraits accordingly&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/OnionBoy0&quot;&gt;Someone&lt;/a&gt; has been working on the Spanish translation of the patch, I’m pretty sure it’s close to completion if not completed already
+    &lt;ul&gt;
+      &lt;li&gt;He’s also been working on doing portrait mapping and trying to add the Medabots lines that don’t exist at all in the GB version (though, without sprites)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h2 id=&quot;parts-collector-12&quot;&gt;Parts Collector 1/2&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Text is dumped, and it’s pretty much identical to Medarot 1 code-wise&lt;/li&gt;
+  &lt;li&gt;We need a translator
+    &lt;ul&gt;
+      &lt;li&gt;I think there’s only a few hundred lines total, and most are duped between the two games&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;medabots-3&quot;&gt;Medabots 3&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Text is dumped (about 7500ish unique lines)&lt;/li&gt;
+  &lt;li&gt;We need translators (and probably someone to drive localization)
+    &lt;ul&gt;
+      &lt;li&gt;If you leave localization to me, we’ll see a lot of &lt;a href=&quot;https://medabots.github.io/medarot3_dialog-previewer-js/index.html?t=%3C@LL,02,00%3EThe%20streets%20ain%27t%20ready%20for%3CD3%3Ethis.%0A%3C@RR,00,06%3EHoly%20Meda-roli!%3C*04%3E&quot;&gt;this&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;We have some translators who drop-in from time to time, but no huge driven effort to get everything translated :(&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Disassembly/hacking work is in-progress to translate tilemaps
+    &lt;ul&gt;
+      &lt;li&gt;Though, we kinda need translators for some things&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;site--blog&quot;&gt;Site / Blog&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Right now the site is &lt;a href=&quot;https://medabots.github.io&quot;&gt;empty&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Ideally I’d like to use it to link to relevant wikis and project pages at some point&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;I’m not particularly gifted at making things look pretty, maybe someone wants to volunteer to spruce up the main page and blog?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s all I’ve got for now. Maybe we’ll have found a translator by the next time I post.&lt;/p&gt;</content><author><name>Variant</name></author><category term="medabots" /><summary type="html">Heyo, Variant here.</summary></entry></feed>

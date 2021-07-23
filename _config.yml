@@ -22,7 +22,7 @@ title: Medablog
 email: 
 description: A blog dedicated to Medabots news and fan projects!
 domain: medabots.github.io
-baseurl: "/medablog/"
+baseurl: "/medablog"
 url: "https://medabots.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: Medabots
@@ -51,3 +51,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
+      permalink: /authors/:slug
