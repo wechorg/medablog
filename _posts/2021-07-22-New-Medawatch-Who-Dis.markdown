@@ -28,7 +28,7 @@ As for a status update, here's what we've got...
 * We need a translator
 	* I think there's only a few hundred lines total, and most are duped between the two games
 
-# Medabots 3
+# Medabots 3 (Game Boy Color)
 * Text is dumped (about 7500ish unique lines)
 * We need translators (and probably someone to drive localization)
 	* If you leave localization to me, we'll see a lot of [this][holy-medaroli]
